@@ -48,13 +48,10 @@ _A brief description of the project._
 ---
 
 ## **🤝 Connect With Me**
-- 📧 Email: tomer.weiss@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tomer-weiss)  
-- 🌐 [Personal Website](https://tomerweiss.com)
+- 📧 Email: tomerweiss248@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomer-weiss1/)  
 
 ---
 
-## **📄 License**
-This repository is licensed under the [MIT License](LICENSE).  
 
 Feel free to explore and contribute to my projects. Let’s build something amazing together! 🚀
