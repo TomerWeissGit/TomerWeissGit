@@ -13,15 +13,21 @@ Welcome to my GitHub profile! Here you’ll find a collection of my personal pro
 
 ## **📂 Key Projects**
 
-### 1. **[Project Name](https://github.com/TomerWeissGit/project-link)**
-_A brief description of the project._  
-- **Technologies**: Python, R, SQL, etc.  
-- **Highlights**: Key features or insights achieved.  
+### 1. **[Airflow, dbt, and Snowflake ELT Workflow](https://github.com/TomerWeissGit/airflow_dbt_snowflake_elt)**
+An end-to-end data pipeline using **Airflow**, **dbt**, and **Snowflake** to automate ELT workflows.  
+- **Technologies**: Python, Airflow, dbt, Snowflake  
+- **Highlights**: Streamlined data ingestion, transformation, and loading with scalable workflows.
 
-### 2. **[Project Name](https://github.com/TomerWeissGit/project-link)**
-_A brief description of the project._  
-- **Technologies**: Python, R, SQL, etc.  
-- **Highlights**: Key features or insights achieved.  
+### 2. **[Private Investigator LLM](https://github.com/TomerWeissGit/PrivateInvestigatorLLM)**
+A creative project using **Large Language Models (LLMs)** to understand a paper originality.  
+- **Technologies**: Python, OpenAI API  
+- **Highlights**: Developed innovative applications for natural language understanding and processing.
+
+### 3. **[DeepPLIV](https://github.com/TomerWeissGit/DeepPLIV)**  
+A Python package developed for my MSc thesis to implement a novel two-stage estimation method combining **instrumental variables** with **neural networks**.  
+- **Technologies**: Python, TensorFlow, Scikit-learn  
+- **Highlights**: Enhanced predictive accuracy with partially linear models for causal inference.
+
 
 ---
 
