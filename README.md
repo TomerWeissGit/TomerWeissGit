@@ -24,20 +24,6 @@ A package that implement a noval dimensionality reduction of vectorized data.
 - **Highlights**: Implements an algorithm to transform high-dimensional vectors into shorter representations while retaining essential information using the word2vec idea but for tabular data.
 
 
-### 3. **[Airflow, dbt, and Snowflake ELT Workflow](https://github.com/TomerWeissGit/airflow_dbt_snowflake_elt)**
-An end-to-end data pipeline using **Airflow**, **dbt**, and **Snowflake** to automate ELT workflows.  
-- **Technologies**: Python, Airflow, dbt, Snowflake  
-- **Highlights**: Streamlined data ingestion, transformation, and loading with scalable workflows.
-
-### 4. **[Private Investigator LLM](https://github.com/TomerWeissGit/PrivateInvestigatorLLM)**
-A creative project using **Large Language Models (LLMs)** to understand a paper originality.  
-- **Technologies**: Python, OpenAI API  
-- **Highlights**: Developed innovative applications for natural language understanding and processing.
-
-
-
-
-
 ---
 
 ## **🛠️ Skills and Tools**
